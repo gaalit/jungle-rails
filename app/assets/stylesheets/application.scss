@@ -15,3 +15,13 @@ body {
 form.button_to {
   display: inline;
 }
+
+.user_auth a {
+  color: #43aa8b;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.user_auth a:hover {
+  color: #f9c74f;
+}
