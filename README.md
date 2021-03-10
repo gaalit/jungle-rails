@@ -5,8 +5,8 @@ A mini e-commerce application built with Rails 4.2.
 ## Features
 
 - Users are able to register, login and logout.
-- Users are able to view all the products on the home page
-- Users are able to filter products by category
+- Users are able to view all the products on the homepage.
+- Users are able to filter products by category.
 - Users are able to view more details about the product or add it to their cart.
 - Users are able to checkout and complete the payment process.
 - Admins are able to add/remove products and categories.
